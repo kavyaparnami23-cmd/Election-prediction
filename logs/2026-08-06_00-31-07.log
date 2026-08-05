@@ -1,0 +1,6 @@
+[ 2026-08-06 00:31:07,880 ] INFO - Directory created : artifacts/test
+[ 2026-08-06 00:31:07,898 ] INFO - CSV Saved : artifacts/test/sample.csv
+[ 2026-08-06 00:31:07,898 ] INFO - Reading CSV : artifacts/test/sample.csv
+[ 2026-08-06 00:31:07,931 ] INFO - CSV Loaded Successfully
+[ 2026-08-06 00:31:07,951 ] INFO - Object Saved : artifacts/test/model.pkl
+[ 2026-08-06 00:31:07,951 ] INFO - Loading Object : artifacts/test/model.pkl

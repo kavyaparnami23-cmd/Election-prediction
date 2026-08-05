@@ -1,0 +1,8 @@
+[ 2026-08-06 00:38:59,088 ] INFO - Starting Data Validation
+[ 2026-08-06 00:38:59,088 ] INFO - Reading CSV : D:\Election prediction\artifacts\raw\ind-lok-sabha.csv
+[ 2026-08-06 00:38:59,719 ] INFO - CSV Loaded Successfully
+[ 2026-08-06 00:38:59,719 ] INFO - Reading CSV : D:\Election prediction\artifacts\raw\ind-vidhan-sabha.csv
+[ 2026-08-06 00:39:00,570 ] INFO - CSV Loaded Successfully
+[ 2026-08-06 00:39:00,571 ] INFO - Validating Lok Sabha
+[ 2026-08-06 00:39:00,700 ] INFO - Validating Vidhan Sabha
+[ 2026-08-06 00:39:01,443 ] INFO - Validation Completed Successfully

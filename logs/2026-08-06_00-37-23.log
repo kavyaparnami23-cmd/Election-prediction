@@ -1,0 +1,14 @@
+[ 2026-08-06 00:37:24,184 ] INFO - ==================================================
+[ 2026-08-06 00:37:24,184 ] INFO - Data Ingestion Started
+[ 2026-08-06 00:37:24,185 ] INFO - ==================================================
+[ 2026-08-06 00:37:24,185 ] INFO - Directory created : D:\Election prediction\artifacts\raw
+[ 2026-08-06 00:37:24,185 ] INFO - Datasets Found Successfully
+[ 2026-08-06 00:37:24,605 ] INFO - Datasets Copied to Artifacts Folder
+[ 2026-08-06 00:37:24,605 ] INFO - Reading CSV : D:\Election prediction\dataset\ind-lok-sabha.csv
+[ 2026-08-06 00:37:24,830 ] INFO - CSV Loaded Successfully
+[ 2026-08-06 00:37:24,830 ] INFO - Reading CSV : D:\Election prediction\dataset\ind-vidhan-sabha.csv
+[ 2026-08-06 00:37:25,510 ] INFO - CSV Loaded Successfully
+[ 2026-08-06 00:37:25,510 ] INFO - Datasets Loaded Successfully
+[ 2026-08-06 00:37:25,510 ] INFO - Lok Sabha Shape : (73081, 11)
+[ 2026-08-06 00:37:25,510 ] INFO - Vidhan Sabha Shape : (327294, 11)
+[ 2026-08-06 00:37:25,510 ] INFO - Data Ingestion Completed Successfully
