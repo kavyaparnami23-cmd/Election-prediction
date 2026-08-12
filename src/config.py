@@ -49,6 +49,16 @@ class Config:
         "models"
     )
 
+    PRODUCTION_MODEL_DIR = os.path.join(
+        MODEL_DIR,
+        "production"
+    )
+
+    TEST_DATA_DIR = os.path.join(
+        ARTIFACT_DIR,
+        "test"
+    )
+
     REPORT_DIR = os.path.join(
         ARTIFACT_DIR,
         "reports"

@@ -1,0 +1,134 @@
+/* ============================================================
+   ElectionPulse AI — Global Design System
+   ECI-Inspired Color Palette + Premium Aesthetics
+   ============================================================ */
+
+/* Google Fonts already loaded via index.html */
+
+:root {
+  /* ── Color Palette ─────────────────────────────────── */
+  --navy:        #0f1b4c;
+  --navy-dark:   #080f2e;
+  --navy-mid:    #1a2a6c;
+  --purple:      #6b21a8;
+  --purple-light:#9333ea;
+  --purple-mid:  #7c3aed;
+  --orange:      #f97316;
+  --orange-light:#fb923c;
+  --teal:        #0d9488;
+  --teal-light:  #14b8a6;
+  --rose:        #e11d48;
+  --gold:        #f59e0b;
+  --white:       #ffffff;
+  --off-white:   #f8fafc;
+  --light-grey:  #e2e8f0;
+  --mid-grey:    #94a3b8;
+  --dark-grey:   #334155;
+
+  /* ── Gradients ─────────────────────────────────────── */
+  --grad-hero:   linear-gradient(135deg, #0f1b4c 0%, #1a1a6e 40%, #6b21a8 100%);
+  --grad-card:   linear-gradient(135deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0.02) 100%);
+  --grad-orange: linear-gradient(135deg, #f97316, #fb923c);
+  --grad-teal:   linear-gradient(135deg, #0d9488, #14b8a6);
+  --grad-purple: linear-gradient(135deg, #6b21a8, #9333ea);
+  --grad-result-win:  linear-gradient(135deg, #065f46, #047857);
+  --grad-result-loss: linear-gradient(135deg, #7f1d1d, #b91c1c);
+
+  /* ── Typography ────────────────────────────────────── */
+  --font-head:  'Poppins', sans-serif;
+  --font-body:  'Noto Sans', sans-serif;
+
+  /* ── Shadows ───────────────────────────────────────── */
+  --shadow-sm:  0 2px 8px rgba(0,0,0,0.12);
+  --shadow-md:  0 8px 24px rgba(0,0,0,0.18);
+  --shadow-lg:  0 16px 48px rgba(0,0,0,0.28);
+  --shadow-glow-orange: 0 0 32px rgba(249,115,22,0.35);
+  --shadow-glow-teal:   0 0 32px rgba(13,148,136,0.35);
+
+  /* ── Borders ───────────────────────────────────────── */
+  --radius-sm:  8px;
+  --radius-md:  16px;
+  --radius-lg:  24px;
+  --radius-xl:  32px;
+  --radius-full: 9999px;
+
+  /* ── Transitions ───────────────────────────────────── */
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --dur-fast: 0.15s;
+  --dur-mid:  0.3s;
+  --dur-slow: 0.5s;
+}
+
+/* ── Reset ────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--off-white);
+  color: var(--dark-grey);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6 { font-family: var(--font-head); }
+
+a { color: inherit; text-decoration: none; }
+button { cursor: pointer; border: none; font-family: var(--font-body); }
+input, select { font-family: var(--font-body); }
+img { max-width: 100%; display: block; }
+
+/* ── Utility ─────────────────────────────────────────── */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--navy);
+  text-align: center;
+  margin-bottom: 8px;
+  font-family: var(--font-head);
+}
+
+.section-subtitle {
+  text-align: center;
+  color: var(--mid-grey);
+  font-size: 1rem;
+  margin-bottom: 48px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.badge-orange { background: rgba(249,115,22,0.15); color: var(--orange); border: 1px solid rgba(249,115,22,0.3); }
+.badge-teal   { background: rgba(13,148,136,0.15);  color: var(--teal);   border: 1px solid rgba(13,148,136,0.3); }
+.badge-navy   { background: rgba(15,27,76,0.1);     color: var(--navy);   border: 1px solid rgba(15,27,76,0.2); }
+
+/* ── Glass card ─────────────────────────────────────── */
+.glass {
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255,255,255,0.4);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+/* ── Scrollbar ──────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--light-grey); }
+::-webkit-scrollbar-thumb { background: var(--purple); border-radius: 3px; }

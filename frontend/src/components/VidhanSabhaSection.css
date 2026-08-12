@@ -1,0 +1,332 @@
+/* VidhanSabhaSection.css */
+
+/* ── Section Wrapper ─────────────────────────────── */
+.vs-section {
+  padding: 80px 0;
+  background: linear-gradient(180deg, #f1f5f9 0%, #e8edf5 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.vs-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 10% 60%, rgba(37,99,235,0.07) 0%, transparent 50%),
+    radial-gradient(circle at 90% 20%, rgba(255,107,53,0.07) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* ── Header ─────────────────────────────────────── */
+.vs-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.vs-header-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #1a2a6c, #6b21a8);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 6px 18px;
+  border-radius: 9999px;
+  margin-bottom: 16px;
+}
+
+/* ── Layout ─────────────────────────────────────── */
+.vs-layout {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+/* ── Form Card ───────────────────────────────────── */
+.vs-form-card {
+  background: var(--white);
+  border-radius: var(--radius-xl);
+  padding: 40px;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid rgba(37,99,235,0.08);
+}
+
+.vs-form-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 2px solid var(--light-grey);
+}
+
+.vs-form-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, #1a2a6c, #2563eb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  flex-shrink: 0;
+  box-shadow: 0 8px 20px rgba(37,99,235,0.3);
+}
+
+.vs-form-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--navy);
+  font-family: var(--font-head);
+}
+
+.vs-form-subtitle {
+  font-size: 0.82rem;
+  color: var(--mid-grey);
+  margin-top: 2px;
+}
+
+.vs-form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.vs-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.vs-form-group.full { grid-column: 1 / -1; }
+
+/* ── Results Area ─────────────────────────────────── */
+.vs-results {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Model Summary Banner */
+.vs-model-banner {
+  background: var(--navy-dark);
+  border-radius: var(--radius-xl);
+  padding: 28px 32px;
+  color: var(--white);
+  box-shadow: 0 12px 40px rgba(8,15,46,0.4);
+  animation: slideUp 0.5s var(--ease) both;
+}
+
+.vs-model-banner-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--teal-light);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.vs-model-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.vs-model-key {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.55);
+}
+
+.vs-model-val {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.vs-model-winner {
+  font-size: 1.4rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+}
+
+.vs-divider {
+  height: 1px;
+  background: rgba(255,255,255,0.1);
+  margin: 16px 0;
+}
+
+.vs-disclaimer {
+  margin-top: 16px;
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.45);
+  font-style: italic;
+}
+
+/* ── Party Cards ──────────────────────────────────── */
+.vs-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.vs-party-card {
+  border-radius: var(--radius-lg);
+  padding: 24px 28px;
+  border: 2px solid transparent;
+  position: relative;
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
+  animation: slideUp 0.5s var(--ease) both;
+  background: var(--white);
+  box-shadow: var(--shadow-sm);
+}
+
+.vs-party-card.winner {
+  box-shadow: var(--shadow-md);
+  transform: none;
+}
+
+.vs-party-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+.vs-winner-badge {
+  position: absolute;
+  top: -12px;
+  left: 24px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #fff;
+  padding: 4px 14px;
+  border-radius: 9999px;
+  text-transform: uppercase;
+}
+
+.vs-party-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.vs-party-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.vs-party-name {
+  font-size: 1.3rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+  color: var(--navy);
+}
+
+.vs-not-win-tag {
+  margin-left: auto;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--mid-grey);
+  background: var(--light-grey);
+  padding: 3px 10px;
+  border-radius: 9999px;
+}
+
+.vs-party-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.vs-stat-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.vs-stat-label {
+  font-size: 0.8rem;
+  color: var(--mid-grey);
+  font-weight: 500;
+}
+
+.vs-stat-value {
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-head);
+  color: var(--navy);
+}
+
+.vs-prob-bar {
+  height: 8px;
+  background: var(--light-grey);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 6px;
+}
+
+.vs-prob-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ── Placeholder ──────────────────────────────────── */
+.vs-placeholder {
+  background: var(--white);
+  border-radius: var(--radius-xl);
+  padding: 64px 40px;
+  border: 2px dashed var(--light-grey);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 16px;
+  min-height: 320px;
+}
+
+.vs-placeholder-icon {
+  font-size: 4rem;
+  opacity: 0.25;
+}
+
+.vs-placeholder-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--mid-grey);
+  font-family: var(--font-head);
+}
+
+.vs-placeholder-desc {
+  font-size: 0.85rem;
+  color: var(--mid-grey);
+  max-width: 280px;
+  line-height: 1.7;
+}
+
+/* ── Animation ────────────────────────────────────── */
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Responsive ───────────────────────────────────── */
+@media (max-width: 960px) {
+  .vs-layout { grid-template-columns: 1fr; }
+  .vs-form-card { padding: 28px 24px; }
+}
+
+@media (max-width: 500px) {
+  .vs-form-grid { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,534 @@
+/* PredictionSection.css */
+.prediction-section {
+  padding: 80px 0;
+  background: linear-gradient(180deg, var(--off-white) 0%, #f1f5f9 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Decorative bg pattern */
+.prediction-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(107,33,168,0.06) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(13,148,136,0.06) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.prediction-inner {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+/* ── Form Card ─────────────────────────── */
+.pred-form-card {
+  background: var(--white);
+  border-radius: var(--radius-xl);
+  padding: 40px;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid rgba(107,33,168,0.08);
+}
+
+.pred-form-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 2px solid var(--light-grey);
+}
+
+.pred-form-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-md);
+  background: var(--grad-purple);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  flex-shrink: 0;
+  box-shadow: 0 8px 20px rgba(107,33,168,0.3);
+}
+
+.pred-form-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--navy);
+  font-family: var(--font-head);
+}
+
+.pred-form-subtitle {
+  font-size: 0.82rem;
+  color: var(--mid-grey);
+  margin-top: 2px;
+}
+
+/* Form fields */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group.full { grid-column: 1 / -1; }
+
+.form-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--dark-grey);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.form-control {
+  padding: 11px 14px;
+  border: 1.5px solid var(--light-grey);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  color: var(--dark-grey);
+  background: var(--off-white);
+  outline: none;
+  transition: border-color var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease);
+  width: 100%;
+}
+
+.form-control:focus {
+  border-color: var(--purple);
+  background: var(--white);
+  box-shadow: 0 0 0 3px rgba(107,33,168,0.1);
+}
+
+.form-control::placeholder { color: var(--mid-grey); }
+
+/* Predict button */
+.btn-predict {
+  width: 100%;
+  padding: 16px;
+  border-radius: var(--radius-md);
+  background: var(--grad-hero);
+  color: var(--white);
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-head);
+  letter-spacing: 0.02em;
+  margin-top: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: opacity var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+  box-shadow: 0 8px 24px rgba(107,33,168,0.35);
+}
+
+.btn-predict:hover:not(:disabled) {
+  opacity: 0.92;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(107,33,168,0.45);
+}
+
+.btn-predict:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.spinner {
+  width: 18px;
+  height: 18px;
+  border: 2.5px solid rgba(255,255,255,0.35);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Error */
+.pred-error {
+  margin-top: 16px;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  background: rgba(225,29,72,0.08);
+  border: 1px solid rgba(225,29,72,0.25);
+  color: var(--rose);
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ── Result Panel ──────────────────────── */
+.result-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.result-card {
+  border-radius: var(--radius-xl);
+  padding: 40px;
+  color: var(--white);
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  animation: slideUp 0.5s var(--ease) both;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.result-card.win  { background: var(--grad-result-win); }
+.result-card.loss { background: var(--grad-result-loss); }
+
+.result-card::before {
+  content: '';
+  position: absolute;
+  top: -40px; right: -40px;
+  width: 180px; height: 180px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.06);
+}
+
+.result-icon {
+  font-size: 3.5rem;
+  margin-bottom: 12px;
+  display: block;
+  animation: bounceIn 0.5s var(--ease) both 0.2s;
+}
+@keyframes bounceIn {
+  0%   { transform: scale(0.5); opacity: 0; }
+  70%  { transform: scale(1.15); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.result-verdict {
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+  margin-bottom: 4px;
+}
+
+.result-desc {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.9rem;
+  margin-bottom: 28px;
+}
+
+/* Probability bar */
+.prob-bar-container { margin-bottom: 24px; }
+
+.prob-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 0.85rem;
+}
+
+.prob-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+}
+
+.prob-bar {
+  height: 10px;
+  background: rgba(255,255,255,0.2);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.prob-bar-fill {
+  height: 100%;
+  border-radius: 5px;
+  background: rgba(255,255,255,0.9);
+  transition: width 1.2s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Stats grid */
+.result-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.result-stat-item {
+  background: rgba(255,255,255,0.1);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  backdrop-filter: blur(8px);
+}
+
+.result-stat-label {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.65);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+.result-stat-value {
+  font-size: 1.05rem;
+  font-weight: 700;
+  font-family: var(--font-head);
+}
+
+/* Placeholder card */
+.result-placeholder {
+  background: var(--white);
+  border-radius: var(--radius-xl);
+  padding: 48px 40px;
+  border: 2px dashed var(--light-grey);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 16px;
+  min-height: 300px;
+}
+
+.result-placeholder-icon { font-size: 4rem; opacity: 0.3; }
+.result-placeholder-title { font-size: 1.1rem; font-weight: 600; color: var(--mid-grey); font-family: var(--font-head); }
+.result-placeholder-desc  { font-size: 0.85rem; color: var(--mid-grey); max-width: 260px; }
+
+/* Info cards */
+.info-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.info-card {
+  background: var(--white);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  border-left: 4px solid var(--purple);
+  transition: transform var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease);
+}
+.info-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+
+.info-card-icon { font-size: 1.5rem; margin-bottom: 8px; }
+.info-card-title { font-size: 0.78rem; color: var(--mid-grey); text-transform: uppercase; letter-spacing: 0.05em; }
+.info-card-value { font-size: 1.3rem; font-weight: 700; color: var(--navy); font-family: var(--font-head); }
+
+@media (max-width: 960px) {
+  .prediction-inner { grid-template-columns: 1fr; }
+  .pred-form-card { padding: 28px 24px; }
+  .info-cards { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 500px) {
+  .form-grid { grid-template-columns: 1fr; }
+  .info-cards { grid-template-columns: 1fr; }
+}
+
+/* ── MODEL PREDICTION Banner ─────────────────────── */
+.model-prediction-banner {
+  background: var(--navy-dark);
+  border-radius: var(--radius-lg);
+  padding: 24px 28px;
+  color: var(--white);
+  box-shadow: 0 8px 32px rgba(8,15,46,0.4);
+  animation: slideUp 0.4s var(--ease) both;
+  border: 1px solid rgba(255,255,255,0.07);
+}
+
+.mpb-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--teal-light);
+  margin-bottom: 14px;
+}
+
+.mpb-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.mpb-key {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.5);
+}
+
+.mpb-val {
+  font-size: 0.9rem;
+  font-weight: 700;
+  font-family: var(--font-head);
+  padding: 4px 12px;
+  border-radius: 9999px;
+}
+
+.mpb-val.win  { background: rgba(4,120,87,0.3);  color: #34d399; }
+.mpb-val.loss { background: rgba(185,28,28,0.3); color: #fca5a5; }
+
+.mpb-divider {
+  height: 1px;
+  background: rgba(255,255,255,0.09);
+  margin: 12px 0;
+}
+
+.mpb-confidence {
+  font-size: 1.6rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+  color: var(--gold);
+}
+
+.mpb-forecast-note {
+  margin-top: 12px;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.4);
+  border-top: 1px solid rgba(255,255,255,0.07);
+  padding-top: 10px;
+  font-style: italic;
+}
+
+/* ── Lok Sabha Mode Switcher Tabs ───────────────── */
+.ls-tabs-container {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+
+.ls-tab-btn {
+  padding: 12px 24px;
+  border-radius: var(--radius-md);
+  font-size: 0.95rem;
+  font-weight: 700;
+  font-family: var(--font-head);
+  color: var(--mid-grey);
+  background: var(--white);
+  border: 1.5px solid var(--light-grey);
+  cursor: pointer;
+  transition: all var(--dur-fast) var(--ease);
+  box-shadow: var(--shadow-sm);
+}
+
+.ls-tab-btn:hover {
+  color: var(--purple);
+  border-color: rgba(107,33,168,0.3);
+}
+
+.ls-tab-btn.active {
+  background: var(--grad-hero);
+  color: var(--white);
+  border-color: transparent;
+  box-shadow: 0 6px 20px rgba(107,33,168,0.3);
+}
+
+/* Party Badge Pill inside result card */
+.party-badge-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid;
+  margin-bottom: 12px;
+}
+
+.party-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.party-dot-large {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+}
+
+/* ── Party Contest Cards ────────────────────────── */
+.party-contest-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: slideUp 0.4s var(--ease) both;
+}
+
+.party-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.party-contest-card {
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  border: 2px solid;
+  position: relative;
+  overflow: hidden;
+  transition: all var(--dur-fast) var(--ease);
+}
+
+.party-contest-card.winner {
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+}
+
+.party-winner-tag {
+  position: absolute;
+  top: 0; right: 0;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-bottom-left-radius: var(--radius-sm);
+  letter-spacing: 0.06em;
+}
+
+.party-card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.party-card-name {
+  font-size: 1.3rem;
+  font-weight: 800;
+  font-family: var(--font-head);
+  color: var(--navy);
+}
+
+.party-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.party-stat-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  color: var(--dark-grey);
+}
+
+

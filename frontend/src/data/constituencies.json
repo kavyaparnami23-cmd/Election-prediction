@@ -1,0 +1,4093 @@
+{
+  "Andaman & Nicobar Islands": [
+    {
+      "name": "Andaman & Nicobar Islands",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Andhra Pradesh": [
+    {
+      "name": "Adilabad",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Amalapuram",
+      "no": 24,
+      "type": "SC"
+    },
+    {
+      "name": "Anakapalli",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Anantapur",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Aruku",
+      "no": 18,
+      "type": "ST"
+    },
+    {
+      "name": "Bapatla",
+      "no": 32,
+      "type": "SC"
+    },
+    {
+      "name": "Bhadrachalam",
+      "no": 5,
+      "type": "ST"
+    },
+    {
+      "name": "Bhongir",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Bobbili",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Chelvella",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Chittoor",
+      "no": 42,
+      "type": "SC"
+    },
+    {
+      "name": "Cuddapah",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Eluru",
+      "no": 27,
+      "type": "GEN"
+    },
+    {
+      "name": "Guntur",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Hanamkonda",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Hindupur",
+      "no": 37,
+      "type": "GEN"
+    },
+    {
+      "name": "Hyderabad",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Kadapa",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Kakinada",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Karimnagar",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Khammam",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Kurnool",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Machilipatnam",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahabubabad",
+      "no": 16,
+      "type": "ST"
+    },
+    {
+      "name": "Mahabubnagar",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahbubnagar",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Malkajgiri",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Medak",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Miryalguda",
+      "no": 42,
+      "type": "GEN"
+    },
+    {
+      "name": "Nagarkurnool",
+      "no": 12,
+      "type": "SC"
+    },
+    {
+      "name": "Nalgonda",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Nandyal",
+      "no": 34,
+      "type": "GEN"
+    },
+    {
+      "name": "Narasapur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Narasaraopet",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Narsapuram",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Nellore",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Nizamabad",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Ongole",
+      "no": 33,
+      "type": "GEN"
+    },
+    {
+      "name": "Parvathipuram",
+      "no": 2,
+      "type": "ST"
+    },
+    {
+      "name": "Peddapalle",
+      "no": 2,
+      "type": "SC"
+    },
+    {
+      "name": "Peddapalli",
+      "no": 36,
+      "type": "SC"
+    },
+    {
+      "name": "Rajahmundry",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajampet",
+      "no": 41,
+      "type": "GEN"
+    },
+    {
+      "name": "Secunderabad",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Secundrabad",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Siddipet",
+      "no": 32,
+      "type": "SC"
+    },
+    {
+      "name": "Srikakulam",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Tenali",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Tirupathi",
+      "no": 20,
+      "type": "SC"
+    },
+    {
+      "name": "Tirupati",
+      "no": 40,
+      "type": "SC"
+    },
+    {
+      "name": "Vijayawada",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Visakhapatnam",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Vizianagaram",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Warangal",
+      "no": 15,
+      "type": "SC"
+    },
+    {
+      "name": "Zahirabad",
+      "no": 5,
+      "type": "GEN"
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "name": "Arunachal East",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Arunachal West",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Assam": [
+    {
+      "name": "Autonomous District",
+      "no": 3,
+      "type": "ST"
+    },
+    {
+      "name": "Barpeta",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhubri",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Dibrugarh",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Gauhati",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Jorhat",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Kaliabor",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Karimganj",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Kokrajhar",
+      "no": 5,
+      "type": "ST"
+    },
+    {
+      "name": "Lakhimpur",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Mangaldoi",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Nowgong",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Silchar",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Tezpur",
+      "no": 9,
+      "type": "GEN"
+    }
+  ],
+  "Bihar": [
+    {
+      "name": "Araria",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Arrah",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Aurangabad",
+      "no": 37,
+      "type": "GEN"
+    },
+    {
+      "name": "Bagaha",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Balia",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Banka",
+      "no": 27,
+      "type": "GEN"
+    },
+    {
+      "name": "Barh",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Begusarai",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Bettiah",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhagalpur",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Bikramganj",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Buxar",
+      "no": 33,
+      "type": "GEN"
+    },
+    {
+      "name": "Chapra",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Chatra",
+      "no": 44,
+      "type": "GEN"
+    },
+    {
+      "name": "Darbhanga",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhanbad",
+      "no": 47,
+      "type": "GEN"
+    },
+    {
+      "name": "Dumka",
+      "no": 27,
+      "type": "ST"
+    },
+    {
+      "name": "Gaya",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Gaya (Sc)",
+      "no": 38,
+      "type": "SC"
+    },
+    {
+      "name": "Giridih",
+      "no": 46,
+      "type": "GEN"
+    },
+    {
+      "name": "Godda",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Gopalganj",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Gopalganj (Sc)",
+      "no": 17,
+      "type": "SC"
+    },
+    {
+      "name": "Hajipur",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Hajipur (Sc)",
+      "no": 21,
+      "type": "SC"
+    },
+    {
+      "name": "Hazaribagh",
+      "no": 48,
+      "type": "GEN"
+    },
+    {
+      "name": "Jahanabad",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Jamshedpur",
+      "no": 50,
+      "type": "GEN"
+    },
+    {
+      "name": "Jamui",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Jamui (Sc)",
+      "no": 40,
+      "type": "SC"
+    },
+    {
+      "name": "Jhanjharpur",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Karakat",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Katihar",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Khagaria",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Khunti",
+      "no": 52,
+      "type": "ST"
+    },
+    {
+      "name": "Kishanganj",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Kodarma",
+      "no": 45,
+      "type": "GEN"
+    },
+    {
+      "name": "Lohardaga",
+      "no": 53,
+      "type": "ST"
+    },
+    {
+      "name": "Madhepura",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Madhubani",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Maharajganj",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Monghyr",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Motihari",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Munger",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Muzaffarpur",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Nalanda",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Nawada",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Palamau",
+      "no": 54,
+      "type": "SC"
+    },
+    {
+      "name": "Paschim Champaran",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Pataliputra",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Patna",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Patna Sahib",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Purnea",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Purnia",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Purvi Champaran",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajmahal",
+      "no": 26,
+      "type": "ST"
+    },
+    {
+      "name": "Ranchi",
+      "no": 49,
+      "type": "GEN"
+    },
+    {
+      "name": "Rosera",
+      "no": 16,
+      "type": "SC"
+    },
+    {
+      "name": "Saharsa",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Samastipur",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Samastipur (Sc)",
+      "no": 23,
+      "type": "SC"
+    },
+    {
+      "name": "Saran",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Sasaram",
+      "no": 34,
+      "type": "GEN"
+    },
+    {
+      "name": "Sasaram (Sc)",
+      "no": 34,
+      "type": "SC"
+    },
+    {
+      "name": "Sheohar",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Singhbhum",
+      "no": 51,
+      "type": "ST"
+    },
+    {
+      "name": "Sitamarhi",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Siwan",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Supaul",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Ujiarpur",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Vaishali",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Valmiki Nagar",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Chandigarh": [
+    {
+      "name": "Chandigarh",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Chattisgarh": [
+    {
+      "name": "Bastar",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Bilaspur",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Durg",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Janjgir-Champa",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Kanker",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Korba",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahasamund",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Raigarh",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Raipur",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajnandgaon",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Sarguja",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "name": "Bastar",
+      "no": 10,
+      "type": "ST"
+    },
+    {
+      "name": "Bilaspur",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Durg",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Janjgir",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Janjgir-Champa",
+      "no": 3,
+      "type": "SC"
+    },
+    {
+      "name": "Kanker",
+      "no": 11,
+      "type": "ST"
+    },
+    {
+      "name": "Korba",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahasamund",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Raigarh",
+      "no": 2,
+      "type": "ST"
+    },
+    {
+      "name": "Raipur",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajnandgaon",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Sarangarh",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Sarguja",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Surguja",
+      "no": 1,
+      "type": "ST"
+    }
+  ],
+  "Dadra & Nagar Haveli": [
+    {
+      "name": "Dadar & Nagar Haveli",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Dadra & Nagar Haveli",
+      "no": 1,
+      "type": "ST"
+    }
+  ],
+  "Daman & Diu": [
+    {
+      "name": "Daman & Diu",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Daman And Diu",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "Chandni Chowk",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Delhi Sadar",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "East Delhi",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Karol Bagh",
+      "no": 7,
+      "type": "SC"
+    },
+    {
+      "name": "New Delhi",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Outer Delhi",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "South Delhi",
+      "no": 2,
+      "type": "GEN"
+    }
+  ],
+  "Goa": [
+    {
+      "name": "Mormugao",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "North Goa",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Panaji",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "South Goa",
+      "no": 2,
+      "type": "GEN"
+    }
+  ],
+  "Goa Daman & Diu": [
+    {
+      "name": "Mormugao",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Panaji",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Goa, Daman & Diu": [
+    {
+      "name": "Mormugao",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Panaji",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Gujarat": [
+    {
+      "name": "Ahmedabad",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Ahmedabad East",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Ahmedabad West",
+      "no": 8,
+      "type": "SC"
+    },
+    {
+      "name": "Amreli",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Anand",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Banaskantha",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Bardoli",
+      "no": 23,
+      "type": "ST"
+    },
+    {
+      "name": "Baroda",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Bharuch",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhavnagar",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Broach",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Bulsar",
+      "no": 26,
+      "type": "ST"
+    },
+    {
+      "name": "Chhota Udaipur",
+      "no": 21,
+      "type": "ST"
+    },
+    {
+      "name": "Dahod",
+      "no": 19,
+      "type": "ST"
+    },
+    {
+      "name": "Dhandhuka",
+      "no": 9,
+      "type": "SC"
+    },
+    {
+      "name": "Dohad",
+      "no": 17,
+      "type": "ST"
+    },
+    {
+      "name": "Gandhinagar",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Godhra",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Jamnagar",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Junagadh",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Kachchh",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Kaira",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Kapadvanj",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Kheda",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Kutch",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahesana",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Mandvi",
+      "no": 25,
+      "type": "ST"
+    },
+    {
+      "name": "Mehsana",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Navsari",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Panchmahal",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Patan",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Porbandar",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajkot",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Sabarkantha",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Surat",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Surendranagar",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Vadodara",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Valsad",
+      "no": 26,
+      "type": "ST"
+    }
+  ],
+  "Haryana": [
+    {
+      "name": "Ambala",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Bhiwani",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhiwani-Mahendragarh",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Faridabad",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Gurgaon",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Hisar",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Hissar",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Karnal",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Kurukshetra",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Mahendragarh",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Rohtak",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Sirsa",
+      "no": 3,
+      "type": "SC"
+    },
+    {
+      "name": "Sonepat",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Sonipat",
+      "no": 6,
+      "type": "GEN"
+    }
+  ],
+  "Himachal Pradesh": [
+    {
+      "name": "Hamirpur",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Kangra",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Mandi",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Shimla",
+      "no": 4,
+      "type": "SC"
+    },
+    {
+      "name": "Simla",
+      "no": 1,
+      "type": "SC"
+    }
+  ],
+  "Jammu & Kashmir": [
+    {
+      "name": "Anantnag",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Baramulla",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Jammu",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Ladakh",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Srinagar",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Udhampur",
+      "no": 5,
+      "type": "GEN"
+    }
+  ],
+  "Jharkhand": [
+    {
+      "name": "Chatra",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhanbad",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Dumka",
+      "no": 2,
+      "type": "ST"
+    },
+    {
+      "name": "Giridih",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Godda",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Hazaribagh",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Jamshedpur",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Khunti",
+      "no": 11,
+      "type": "ST"
+    },
+    {
+      "name": "Kodarma",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Lohardaga",
+      "no": 12,
+      "type": "ST"
+    },
+    {
+      "name": "Palamau",
+      "no": 13,
+      "type": "SC"
+    },
+    {
+      "name": "Rajmahal",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Ranchi",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Singhbhum",
+      "no": 10,
+      "type": "ST"
+    }
+  ],
+  "Karnataka": [
+    {
+      "name": "Bagalkot",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Bangalore Central",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Bangalore North",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Bangalore Rural",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Bangalore South",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Belgaum",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Bellary",
+      "no": 9,
+      "type": "ST"
+    },
+    {
+      "name": "Bidar",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Bijapur",
+      "no": 4,
+      "type": "SC"
+    },
+    {
+      "name": "Chamarajanagar",
+      "no": 22,
+      "type": "SC"
+    },
+    {
+      "name": "Chikballapur",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Chikkballapur",
+      "no": 27,
+      "type": "GEN"
+    },
+    {
+      "name": "Chikkodi",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Chikmagalur",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Chitradurga",
+      "no": 18,
+      "type": "SC"
+    },
+    {
+      "name": "Dakshina Kannada",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Davanagere",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Davangere",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Dharwad",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Dharwad North",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Dharwad South",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Gulbarga",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Hassan",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Haveri",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Kanakapura",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Kanara",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Kolar",
+      "no": 28,
+      "type": "SC"
+    },
+    {
+      "name": "Koppal",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Mandya",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Mangalore",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Mysore",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Raichur",
+      "no": 6,
+      "type": "ST"
+    },
+    {
+      "name": "Shimoga",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Tumkur",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Udupi",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Udupi Chikmagalur",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Uttara Kannada",
+      "no": 12,
+      "type": "GEN"
+    }
+  ],
+  "Kerala": [
+    {
+      "name": "Adoor",
+      "no": 17,
+      "type": "SC"
+    },
+    {
+      "name": "Alappuzha",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Alathur",
+      "no": 9,
+      "type": "SC"
+    },
+    {
+      "name": "Alleppey",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Attingal",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Badagara",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Calicut",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Cannanore",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Chalakudy",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Chirayinkil",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Ernakulam",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Idukki",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Kannur",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Kasaragod",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Kollam",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Kottayam",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Kozhikode",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Malappuram",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Manjeri",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Mavelikara",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Mavelikkara",
+      "no": 16,
+      "type": "SC"
+    },
+    {
+      "name": "Mukundapuram",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Muvattupuzha",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Ottapalam",
+      "no": 8,
+      "type": "SC"
+    },
+    {
+      "name": "Palakkad",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Palghat",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Pathanamthitta",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Ponnani",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Quilon",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Thrissur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Trichur",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Trivandrum",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Vadakara",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Wayanad",
+      "no": 4,
+      "type": "GEN"
+    }
+  ],
+  "Lakshadweep": [
+    {
+      "name": "Lakshadweep",
+      "no": 1,
+      "type": "ST"
+    }
+  ],
+  "Madhya Pradesh": [
+    {
+      "name": "Balaghat",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Bastar",
+      "no": 20,
+      "type": "ST"
+    },
+    {
+      "name": "Betul",
+      "no": 29,
+      "type": "ST"
+    },
+    {
+      "name": "Bhind",
+      "no": 2,
+      "type": "SC"
+    },
+    {
+      "name": "Bhopal",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Bilaspur",
+      "no": 15,
+      "type": "SC"
+    },
+    {
+      "name": "Chhindwara",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Damoh",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Dewas",
+      "no": 21,
+      "type": "SC"
+    },
+    {
+      "name": "Dhar",
+      "no": 25,
+      "type": "ST"
+    },
+    {
+      "name": "Durg",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Guna",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Gwalior",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Hoshangabad",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Indore",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Jabalpur",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Janjgir",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhabua",
+      "no": 28,
+      "type": "ST"
+    },
+    {
+      "name": "Kanker",
+      "no": 19,
+      "type": "ST"
+    },
+    {
+      "name": "Khajuraho",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Khandwa",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Khargone",
+      "no": 27,
+      "type": "ST"
+    },
+    {
+      "name": "Mahasamund",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Mandla",
+      "no": 14,
+      "type": "ST"
+    },
+    {
+      "name": "Mandsaur",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Mandsour",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Morena",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Raigarh",
+      "no": 13,
+      "type": "ST"
+    },
+    {
+      "name": "Raipur",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajgarh",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajnandgaon",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Ratlam",
+      "no": 24,
+      "type": "ST"
+    },
+    {
+      "name": "Rewa",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Sagar",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Sarangarh",
+      "no": 16,
+      "type": "SC"
+    },
+    {
+      "name": "Satna",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Seoni",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Shahdol",
+      "no": 12,
+      "type": "ST"
+    },
+    {
+      "name": "Shajapur",
+      "no": 22,
+      "type": "SC"
+    },
+    {
+      "name": "Sidhi",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Surguja",
+      "no": 12,
+      "type": "ST"
+    },
+    {
+      "name": "Tikamgarh",
+      "no": 6,
+      "type": "SC"
+    },
+    {
+      "name": "Ujjain",
+      "no": 22,
+      "type": "SC"
+    },
+    {
+      "name": "Vidisha",
+      "no": 18,
+      "type": "GEN"
+    }
+  ],
+  "Maharashtra": [
+    {
+      "name": "Ahmadnagar",
+      "no": 37,
+      "type": "GEN"
+    },
+    {
+      "name": "Ahmednagar",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Akola",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Amravati",
+      "no": 7,
+      "type": "SC"
+    },
+    {
+      "name": "Aurangabad",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Baramati",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Beed",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhandara",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhandara - Gondiya",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhiwandi",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay North",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay North Central",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay North East",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay North West",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay South",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Bombay South Central",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Buldhana",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Chandrapur",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Chimur",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Dahanu",
+      "no": 11,
+      "type": "ST"
+    },
+    {
+      "name": "Dhule",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhulia",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Dindori",
+      "no": 20,
+      "type": "ST"
+    },
+    {
+      "name": "Erandol",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Gadchiroli-Chimur",
+      "no": 12,
+      "type": "ST"
+    },
+    {
+      "name": "Hatkanangle",
+      "no": 48,
+      "type": "GEN"
+    },
+    {
+      "name": "Hingoli",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Ichalkaranji",
+      "no": 47,
+      "type": "GEN"
+    },
+    {
+      "name": "Jalgaon",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Jalna",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Kalyan",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Karad",
+      "no": 45,
+      "type": "GEN"
+    },
+    {
+      "name": "Khed",
+      "no": 41,
+      "type": "GEN"
+    },
+    {
+      "name": "Kolaba",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Kolhapur",
+      "no": 47,
+      "type": "GEN"
+    },
+    {
+      "name": "Kopargaon",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Latur",
+      "no": 41,
+      "type": "SC"
+    },
+    {
+      "name": "Madha",
+      "no": 43,
+      "type": "GEN"
+    },
+    {
+      "name": "Malegaon",
+      "no": 13,
+      "type": "ST"
+    },
+    {
+      "name": "Maval",
+      "no": 33,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai   South",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai North",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai North Central",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai North East",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai North West",
+      "no": 27,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai South",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Mumbai South Central",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Nagpur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Nanded",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Nandurbar",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Nashik",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Osmanabad",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Palghar",
+      "no": 22,
+      "type": "ST"
+    },
+    {
+      "name": "Pandharpur",
+      "no": 38,
+      "type": "SC"
+    },
+    {
+      "name": "Parbhani",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Pune",
+      "no": 34,
+      "type": "GEN"
+    },
+    {
+      "name": "Raigad",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajapur",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Ramtek",
+      "no": 9,
+      "type": "SC"
+    },
+    {
+      "name": "Ratnagiri",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Ratnagiri - Sindhudurg",
+      "no": 46,
+      "type": "GEN"
+    },
+    {
+      "name": "Raver",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Sangli",
+      "no": 44,
+      "type": "GEN"
+    },
+    {
+      "name": "Satara",
+      "no": 45,
+      "type": "GEN"
+    },
+    {
+      "name": "Shirdi",
+      "no": 38,
+      "type": "SC"
+    },
+    {
+      "name": "Shirur",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Sholapur",
+      "no": 37,
+      "type": "GEN"
+    },
+    {
+      "name": "Solapur",
+      "no": 42,
+      "type": "SC"
+    },
+    {
+      "name": "Thane",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Wardha",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Washim",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Yavatmal",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Yavatmal-Washim",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Yeotmal",
+      "no": 28,
+      "type": "GEN"
+    }
+  ],
+  "Manipur": [
+    {
+      "name": "Inner Manipur",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Outer Manipur",
+      "no": 2,
+      "type": "ST"
+    }
+  ],
+  "Meghalaya": [
+    {
+      "name": "Shillong",
+      "no": 1,
+      "type": "ST"
+    },
+    {
+      "name": "Tura",
+      "no": 2,
+      "type": "ST"
+    }
+  ],
+  "Mizoram": [
+    {
+      "name": "Mizoram",
+      "no": 1,
+      "type": "ST"
+    }
+  ],
+  "Nagaland": [
+    {
+      "name": "Nagaland",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "National Capital Territory Of Delhi": [
+    {
+      "name": "Chandni Chowk",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Delhi Sadar",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "East Delhi",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Karol Bagh",
+      "no": 7,
+      "type": "SC"
+    },
+    {
+      "name": "New Delhi",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Outer Delhi",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "South Delhi",
+      "no": 2,
+      "type": "GEN"
+    }
+  ],
+  "Nct Of Delhi": [
+    {
+      "name": "Chandni Chowk",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "East Delhi",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "New Delhi",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "North East Delhi",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "North West Delhi",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "South Delhi",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "West Delhi",
+      "no": 6,
+      "type": "GEN"
+    }
+  ],
+  "Odisha": [
+    {
+      "name": "Aska",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Balasore",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bargarh",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Berhampur",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhadrak",
+      "no": 7,
+      "type": "SC"
+    },
+    {
+      "name": "Bhubaneswar",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Bolangir",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Cuttack",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhenkanal",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Jagatsinghpur",
+      "no": 16,
+      "type": "SC"
+    },
+    {
+      "name": "Jajpur",
+      "no": 8,
+      "type": "SC"
+    },
+    {
+      "name": "Kalahandi",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Kandhamal",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Kendrapara",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Keonjhar",
+      "no": 4,
+      "type": "ST"
+    },
+    {
+      "name": "Koraput",
+      "no": 21,
+      "type": "ST"
+    },
+    {
+      "name": "Mayurbhanj",
+      "no": 5,
+      "type": "ST"
+    },
+    {
+      "name": "Nabarangpur",
+      "no": 12,
+      "type": "ST"
+    },
+    {
+      "name": "Puri",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Sambalpur",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Sundargarh",
+      "no": 2,
+      "type": "ST"
+    }
+  ],
+  "Orissa": [
+    {
+      "name": "Aska",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Balasore",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bargarh",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Berhampur",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhadrak",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhubaneswar",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Bolangir",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Cuttack",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Deogarh",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhenkanal",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Jagatsinghpur",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Jajpur",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Kalahandi",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Kandhamal",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Kendrapara",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Keonjhar",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Koraput",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Mayurbhanj",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Nabarangpur",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Nowrangpur",
+      "no": 13,
+      "type": "ST"
+    },
+    {
+      "name": "Phulbani",
+      "no": 15,
+      "type": "SC"
+    },
+    {
+      "name": "Puri",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Sambalpur",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Sundargarh",
+      "no": 2,
+      "type": "GEN"
+    }
+  ],
+  "Pondicherry": [
+    {
+      "name": "Pondicherry",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Puducherry": [
+    {
+      "name": "Puducherry",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Punjab": [
+    {
+      "name": "Amritsar",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Anandpur Sahib",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bathinda",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhatinda",
+      "no": 11,
+      "type": "SC"
+    },
+    {
+      "name": "Faridkot",
+      "no": 9,
+      "type": "SC"
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "no": 8,
+      "type": "SC"
+    },
+    {
+      "name": "Ferozepur",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Ferozpur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Firozpur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Gurdaspur",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Hoshiarpur",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Jalandhar",
+      "no": 4,
+      "type": "SC"
+    },
+    {
+      "name": "Jullundur",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Khadoor Sahib",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Ludhiana",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Patiala",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Phillaur",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Ropar",
+      "no": 7,
+      "type": "SC"
+    },
+    {
+      "name": "Sangrur",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Tarn Taran",
+      "no": 3,
+      "type": "GEN"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "name": "Ajmer",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Alwar",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Banswara",
+      "no": 20,
+      "type": "ST"
+    },
+    {
+      "name": "Barmer",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Bayana",
+      "no": 10,
+      "type": "SC"
+    },
+    {
+      "name": "Bharatpur",
+      "no": 9,
+      "type": "SC"
+    },
+    {
+      "name": "Bhilwara",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Bikaner",
+      "no": 2,
+      "type": "SC"
+    },
+    {
+      "name": "Chittorgarh",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Churu",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Dausa",
+      "no": 11,
+      "type": "ST"
+    },
+    {
+      "name": "Ganganagar",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Jaipur",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Jaipur Rural",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Jalore",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhalawar",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhalawar-Baran",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhunjhunu",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Jodhpur",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Karauli-Dholpur",
+      "no": 10,
+      "type": "SC"
+    },
+    {
+      "name": "Kota",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Nagaur",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Pali",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Rajsamand",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Salumber",
+      "no": 17,
+      "type": "ST"
+    },
+    {
+      "name": "Sawai Madhopur",
+      "no": 11,
+      "type": "ST"
+    },
+    {
+      "name": "Sikar",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Tonk",
+      "no": 13,
+      "type": "SC"
+    },
+    {
+      "name": "Tonk-Sawai Madhopur",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Udaipur",
+      "no": 19,
+      "type": "ST"
+    }
+  ],
+  "Sikkim": [
+    {
+      "name": "Sikkim",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "name": "Arakkonam",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Arani",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Chengalpattu",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Chennai Central",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Chennai North",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Chennai South",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Chidambaram",
+      "no": 27,
+      "type": "SC"
+    },
+    {
+      "name": "Coimbatore",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Cuddalore",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Dharmapuri",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Dindigul",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Erode",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Gobichettipalayam",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Kallakurichi",
+      "no": 14,
+      "type": "GEN"
+    },
+    {
+      "name": "Kancheepuram",
+      "no": 6,
+      "type": "SC"
+    },
+    {
+      "name": "Kanniyakumari",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Karur",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Krishnagiri",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Madras Central",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Madras North",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Madras South",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Madurai",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Mayiladuthurai",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Mayiladuturai",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Nagapattinam",
+      "no": 29,
+      "type": "SC"
+    },
+    {
+      "name": "Nagercoil",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Namakkal",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Nilgiris",
+      "no": 19,
+      "type": "SC"
+    },
+    {
+      "name": "Palani",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Perambalur",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Periyakulam",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Pollachi",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Pudukkottai",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Ramanathapuram",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Rasipuram",
+      "no": 15,
+      "type": "SC"
+    },
+    {
+      "name": "Salem",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Sivaganga",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Sivakasi",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Sriperumbudur",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Tenkasi",
+      "no": 37,
+      "type": "SC"
+    },
+    {
+      "name": "Thanjavur",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Theni",
+      "no": 33,
+      "type": "GEN"
+    },
+    {
+      "name": "Thiruvallur",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Thoothukkudi",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Tindivanam",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruchendur",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruchengode",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Tirunelveli",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruppattur",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruppur",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Tiruvannamalai",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Vandavasi",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Vellore",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Viluppuram",
+      "no": 13,
+      "type": "SC"
+    },
+    {
+      "name": "Virudhunagar",
+      "no": 34,
+      "type": "GEN"
+    },
+    {
+      "name": "Wandiwash",
+      "no": 9,
+      "type": "GEN"
+    }
+  ],
+  "Tripura": [
+    {
+      "name": "Tripura East",
+      "no": 2,
+      "type": "ST"
+    },
+    {
+      "name": "Tripura West",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "name": "Agra",
+      "no": 18,
+      "type": "SC"
+    },
+    {
+      "name": "Akbarpur",
+      "no": 44,
+      "type": "GEN"
+    },
+    {
+      "name": "Aligarh",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Allahabad",
+      "no": 52,
+      "type": "GEN"
+    },
+    {
+      "name": "Almora",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Ambedkar Nagar",
+      "no": 55,
+      "type": "GEN"
+    },
+    {
+      "name": "Amethi",
+      "no": 37,
+      "type": "GEN"
+    },
+    {
+      "name": "Amroha",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Aonla",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Azamgarh",
+      "no": 69,
+      "type": "GEN"
+    },
+    {
+      "name": "Badaun",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Baghpat",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Bahraich",
+      "no": 56,
+      "type": "SC"
+    },
+    {
+      "name": "Ballia",
+      "no": 72,
+      "type": "GEN"
+    },
+    {
+      "name": "Balrampur",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Banda",
+      "no": 48,
+      "type": "GEN"
+    },
+    {
+      "name": "Bansgaon",
+      "no": 67,
+      "type": "SC"
+    },
+    {
+      "name": "Bara Banki",
+      "no": 25,
+      "type": "SC"
+    },
+    {
+      "name": "Barabanki",
+      "no": 53,
+      "type": "SC"
+    },
+    {
+      "name": "Bareilly",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Basti",
+      "no": 61,
+      "type": "GEN"
+    },
+    {
+      "name": "Bhadohi",
+      "no": 78,
+      "type": "GEN"
+    },
+    {
+      "name": "Bijnor",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Bilhaur",
+      "no": 60,
+      "type": "GEN"
+    },
+    {
+      "name": "Budaun",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bulandshahr",
+      "no": 14,
+      "type": "SC"
+    },
+    {
+      "name": "Chail",
+      "no": 53,
+      "type": "SC"
+    },
+    {
+      "name": "Chandauli",
+      "no": 76,
+      "type": "GEN"
+    },
+    {
+      "name": "Deoria",
+      "no": 66,
+      "type": "GEN"
+    },
+    {
+      "name": "Dhaurahra",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Domariaganj",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Domariyaganj",
+      "no": 60,
+      "type": "GEN"
+    },
+    {
+      "name": "Etah",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Etawah",
+      "no": 41,
+      "type": "SC"
+    },
+    {
+      "name": "Faizabad",
+      "no": 54,
+      "type": "GEN"
+    },
+    {
+      "name": "Farrukhabad",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Fatehpur",
+      "no": 49,
+      "type": "GEN"
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "no": 19,
+      "type": "GEN"
+    },
+    {
+      "name": "Firozabad",
+      "no": 20,
+      "type": "GEN"
+    },
+    {
+      "name": "Garhwal",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Gautam Buddh Nagar",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Gautam Buddha Nagar",
+      "no": 13,
+      "type": "GEN"
+    },
+    {
+      "name": "Ghatampur",
+      "no": 59,
+      "type": "SC"
+    },
+    {
+      "name": "Ghaziabad",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Ghazipur",
+      "no": 75,
+      "type": "GEN"
+    },
+    {
+      "name": "Ghosi",
+      "no": 70,
+      "type": "GEN"
+    },
+    {
+      "name": "Gonda",
+      "no": 59,
+      "type": "GEN"
+    },
+    {
+      "name": "Gorakhpur",
+      "no": 64,
+      "type": "GEN"
+    },
+    {
+      "name": "Hamirpur",
+      "no": 47,
+      "type": "GEN"
+    },
+    {
+      "name": "Hapur",
+      "no": 75,
+      "type": "GEN"
+    },
+    {
+      "name": "Hardoi",
+      "no": 31,
+      "type": "SC"
+    },
+    {
+      "name": "Hardwar",
+      "no": 85,
+      "type": "SC"
+    },
+    {
+      "name": "Hathras",
+      "no": 16,
+      "type": "SC"
+    },
+    {
+      "name": "Jalaun",
+      "no": 45,
+      "type": "SC"
+    },
+    {
+      "name": "Jalesar",
+      "no": 66,
+      "type": "GEN"
+    },
+    {
+      "name": "Jaunpur",
+      "no": 73,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhansi",
+      "no": 46,
+      "type": "GEN"
+    },
+    {
+      "name": "Kairana",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Kaiserganj",
+      "no": 57,
+      "type": "GEN"
+    },
+    {
+      "name": "Kannauj",
+      "no": 42,
+      "type": "GEN"
+    },
+    {
+      "name": "Kanpur",
+      "no": 43,
+      "type": "GEN"
+    },
+    {
+      "name": "Kaushambi",
+      "no": 50,
+      "type": "SC"
+    },
+    {
+      "name": "Khalilabad",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Kheri",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Khurja",
+      "no": 73,
+      "type": "SC"
+    },
+    {
+      "name": "Kushi Nagar",
+      "no": 65,
+      "type": "GEN"
+    },
+    {
+      "name": "Lalganj",
+      "no": 68,
+      "type": "SC"
+    },
+    {
+      "name": "Lucknow",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Machhlishahr",
+      "no": 74,
+      "type": "SC"
+    },
+    {
+      "name": "Maharajganj",
+      "no": 63,
+      "type": "GEN"
+    },
+    {
+      "name": "Mainpuri",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Mathura",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Meerut",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Mirzapur",
+      "no": 79,
+      "type": "GEN"
+    },
+    {
+      "name": "Misrikh",
+      "no": 32,
+      "type": "SC"
+    },
+    {
+      "name": "Mohanlalganj",
+      "no": 34,
+      "type": "SC"
+    },
+    {
+      "name": "Moradabad",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Muzaffarnagar",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Nagina",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Nainital",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Padrauna",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Phulpur",
+      "no": 51,
+      "type": "GEN"
+    },
+    {
+      "name": "Pilibhit",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Pratapgarh",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Rae Bareli",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Rampur",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Robertsganj",
+      "no": 80,
+      "type": "SC"
+    },
+    {
+      "name": "Saharanpur",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Saidpur",
+      "no": 45,
+      "type": "SC"
+    },
+    {
+      "name": "Salempur",
+      "no": 71,
+      "type": "GEN"
+    },
+    {
+      "name": "Sambhal",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Sant Kabir Nagar",
+      "no": 62,
+      "type": "GEN"
+    },
+    {
+      "name": "Shahabad",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Shahjahanpur",
+      "no": 27,
+      "type": "SC"
+    },
+    {
+      "name": "Shrawasti",
+      "no": 58,
+      "type": "GEN"
+    },
+    {
+      "name": "Sitapur",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Sultanpur",
+      "no": 38,
+      "type": "GEN"
+    },
+    {
+      "name": "Tehri Garhwal",
+      "no": 1,
+      "type": "GEN"
+    },
+    {
+      "name": "Unnao",
+      "no": 33,
+      "type": "GEN"
+    },
+    {
+      "name": "Varanasi",
+      "no": 77,
+      "type": "GEN"
+    }
+  ],
+  "Uttarakhand": [
+    {
+      "name": "Almora",
+      "no": 3,
+      "type": "SC"
+    },
+    {
+      "name": "Garhwal",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Hardwar",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Nainital-Udhamsingh Nagar",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Tehri Garhwal",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "Uttaranchal": [
+    {
+      "name": "Almora",
+      "no": 3,
+      "type": "GEN"
+    },
+    {
+      "name": "Garhwal",
+      "no": 2,
+      "type": "GEN"
+    },
+    {
+      "name": "Hardwar",
+      "no": 5,
+      "type": "SC"
+    },
+    {
+      "name": "Nainital",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Tehri Garhwal",
+      "no": 1,
+      "type": "GEN"
+    }
+  ],
+  "West Bengal": [
+    {
+      "name": "Alipurduars",
+      "no": 2,
+      "type": "ST"
+    },
+    {
+      "name": "Arambagh",
+      "no": 29,
+      "type": "SC"
+    },
+    {
+      "name": "Asansol",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Baharampur",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Balurghat",
+      "no": 6,
+      "type": "GEN"
+    },
+    {
+      "name": "Bangaon",
+      "no": 14,
+      "type": "SC"
+    },
+    {
+      "name": "Bankura",
+      "no": 36,
+      "type": "GEN"
+    },
+    {
+      "name": "Barasat",
+      "no": 17,
+      "type": "GEN"
+    },
+    {
+      "name": "Bardhaman Purba",
+      "no": 38,
+      "type": "SC"
+    },
+    {
+      "name": "Barrackpore",
+      "no": 15,
+      "type": "GEN"
+    },
+    {
+      "name": "Basirhat",
+      "no": 18,
+      "type": "GEN"
+    },
+    {
+      "name": "Berhampore",
+      "no": 10,
+      "type": "GEN"
+    },
+    {
+      "name": "Birbhum",
+      "no": 42,
+      "type": "GEN"
+    },
+    {
+      "name": "Bishnupur",
+      "no": 37,
+      "type": "SC"
+    },
+    {
+      "name": "Bolpur",
+      "no": 41,
+      "type": "SC"
+    },
+    {
+      "name": "Burdwan",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Burdwan - Durgapur",
+      "no": 39,
+      "type": "GEN"
+    },
+    {
+      "name": "Calcutta North East",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Calcutta North West",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Calcutta South",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Contai",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Cooch Behar",
+      "no": 1,
+      "type": "SC"
+    },
+    {
+      "name": "Darjeeling",
+      "no": 4,
+      "type": "GEN"
+    },
+    {
+      "name": "Diamond Harbour",
+      "no": 21,
+      "type": "GEN"
+    },
+    {
+      "name": "Dum Dum",
+      "no": 16,
+      "type": "GEN"
+    },
+    {
+      "name": "Durgapur",
+      "no": 37,
+      "type": "SC"
+    },
+    {
+      "name": "Ghatal",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Hooghly",
+      "no": 28,
+      "type": "GEN"
+    },
+    {
+      "name": "Howrah",
+      "no": 25,
+      "type": "GEN"
+    },
+    {
+      "name": "Jadavpur",
+      "no": 22,
+      "type": "GEN"
+    },
+    {
+      "name": "Jalpaiguri",
+      "no": 3,
+      "type": "SC"
+    },
+    {
+      "name": "Jangipur",
+      "no": 9,
+      "type": "GEN"
+    },
+    {
+      "name": "Jhargram",
+      "no": 33,
+      "type": "ST"
+    },
+    {
+      "name": "Joynagar",
+      "no": 19,
+      "type": "SC"
+    },
+    {
+      "name": "Kanthi",
+      "no": 31,
+      "type": "GEN"
+    },
+    {
+      "name": "Katwa",
+      "no": 40,
+      "type": "GEN"
+    },
+    {
+      "name": "Kolkata Dakshin",
+      "no": 23,
+      "type": "GEN"
+    },
+    {
+      "name": "Kolkata Uttar",
+      "no": 24,
+      "type": "GEN"
+    },
+    {
+      "name": "Krishnagar",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Krishnanagar",
+      "no": 12,
+      "type": "GEN"
+    },
+    {
+      "name": "Malda",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Maldaha Dakshin",
+      "no": 8,
+      "type": "GEN"
+    },
+    {
+      "name": "Maldaha Uttar",
+      "no": 7,
+      "type": "GEN"
+    },
+    {
+      "name": "Mathurapur",
+      "no": 20,
+      "type": "SC"
+    },
+    {
+      "name": "Medinipur",
+      "no": 34,
+      "type": "GEN"
+    },
+    {
+      "name": "Midnapore",
+      "no": 32,
+      "type": "GEN"
+    },
+    {
+      "name": "Murshidabad",
+      "no": 11,
+      "type": "GEN"
+    },
+    {
+      "name": "Nabadwip",
+      "no": 12,
+      "type": "SC"
+    },
+    {
+      "name": "Panskura",
+      "no": 29,
+      "type": "GEN"
+    },
+    {
+      "name": "Purulia",
+      "no": 35,
+      "type": "GEN"
+    },
+    {
+      "name": "Raiganj",
+      "no": 5,
+      "type": "GEN"
+    },
+    {
+      "name": "Ranaghat",
+      "no": 13,
+      "type": "SC"
+    },
+    {
+      "name": "Serampore",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Srerampur",
+      "no": 27,
+      "type": "GEN"
+    },
+    {
+      "name": "Tamluk",
+      "no": 30,
+      "type": "GEN"
+    },
+    {
+      "name": "Uluberia",
+      "no": 26,
+      "type": "GEN"
+    },
+    {
+      "name": "Vishnupur",
+      "no": 36,
+      "type": "SC"
+    }
+  ]
+}

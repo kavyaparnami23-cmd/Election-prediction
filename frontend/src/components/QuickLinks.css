@@ -1,0 +1,80 @@
+/* QuickLinks.css */
+.quicklinks {
+  background: var(--white);
+  border-bottom: 2px solid var(--light-grey);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.quicklinks-inner {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  overflow-x: auto;
+  gap: 0;
+  scrollbar-width: none;
+}
+.quicklinks-inner::-webkit-scrollbar { display: none; }
+
+.ql-item {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 24px;
+  height: 100%;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--dark-grey);
+  border-right: 1px solid var(--light-grey);
+  cursor: pointer;
+  transition: all var(--dur-fast) var(--ease);
+  text-decoration: none;
+  white-space: nowrap;
+  position: relative;
+}
+
+.ql-item::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 3px;
+  border-radius: 2px 2px 0 0;
+  background: var(--orange);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--dur-mid) var(--ease);
+}
+
+.ql-item:hover {
+  color: var(--purple);
+  background: rgba(107,33,168,0.04);
+}
+.ql-item:hover::after { transform: scaleX(1); }
+
+.ql-item.primary {
+  color: var(--purple);
+  background: rgba(107,33,168,0.06);
+}
+.ql-item.primary::after { transform: scaleX(1); background: var(--purple); }
+
+.ql-icon { font-size: 1rem; }
+
+.ql-progress {
+  flex: 1;
+  height: 4px;
+  background: var(--light-grey);
+  border-radius: 2px;
+  overflow: hidden;
+  margin: 0 16px;
+}
+.ql-progress-bar {
+  height: 100%;
+  border-radius: 2px;
+  background: var(--grad-orange);
+  width: 65%;
+  animation: shimmer 2s ease-in-out infinite;
+}
+@keyframes shimmer {
+  0%,100% { opacity: 1; }
+  50%      { opacity: 0.6; }
+}

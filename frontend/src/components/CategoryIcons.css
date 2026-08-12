@@ -1,0 +1,111 @@
+/* CategoryIcons.css */
+.category-section {
+  background: var(--white);
+  padding: 56px 0 64px;
+  border-bottom: 1px solid var(--light-grey);
+}
+
+.category-section .section-title { margin-bottom: 4px; }
+
+.categories-grid {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+  margin-top: 48px;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform var(--dur-mid) var(--ease);
+}
+.category-card:hover { transform: translateY(-6px); }
+
+/* The circle */
+.cat-circle {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  position: relative;
+  transition: box-shadow var(--dur-mid) var(--ease);
+}
+
+/* Coloured ring + inner white  */
+.cat-circle::before {
+  content: '';
+  position: absolute;
+  inset: -5px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  transition: border-color var(--dur-mid) var(--ease);
+}
+
+.category-card:hover .cat-circle::before {
+  border-color: var(--ring-color, var(--purple));
+}
+
+.cat-circle-inner {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  box-shadow: var(--shadow-md);
+  position: relative;
+  z-index: 1;
+  transition: box-shadow var(--dur-mid) var(--ease);
+}
+
+.category-card:hover .cat-circle-inner {
+  box-shadow: var(--shadow-lg);
+}
+
+/* The colorful outer ring border */
+.cat-circle.teal  { background: conic-gradient(var(--teal) 0%, var(--teal-light) 100%); --ring-color: var(--teal); }
+.cat-circle.purple{ background: conic-gradient(var(--purple) 0%, var(--purple-light) 100%); --ring-color: var(--purple); }
+.cat-circle.orange{ background: conic-gradient(var(--orange) 0%, var(--orange-light) 100%); --ring-color: var(--orange); }
+.cat-circle.blue  { background: conic-gradient(#2563eb 0%, #60a5fa 100%); --ring-color: #2563eb; }
+.cat-circle.gold  { background: conic-gradient(var(--gold) 0%, #fcd34d 100%); --ring-color: var(--gold); }
+.cat-circle.rose  { background: conic-gradient(var(--rose) 0%, #fb7185 100%); --ring-color: var(--rose); }
+
+.cat-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--dark-grey);
+  text-align: center;
+  line-height: 1.3;
+  max-width: 100px;
+}
+
+/* Bottom coloured bar on each circle */
+.cat-bar {
+  width: 110px;
+  height: 4px;
+  border-radius: 2px;
+  margin-top: -10px;
+}
+.cat-bar.teal   { background: var(--teal); }
+.cat-bar.purple { background: var(--purple); }
+.cat-bar.orange { background: var(--orange); }
+.cat-bar.blue   { background: #2563eb; }
+.cat-bar.gold   { background: var(--gold); }
+.cat-bar.rose   { background: var(--rose); }
+
+@media (max-width: 768px) {
+  .categories-grid { gap: 20px; }
+  .cat-circle { width: 90px; height: 90px; }
+  .cat-circle-inner { width: 72px; height: 72px; font-size: 1.8rem; }
+  .cat-bar { width: 90px; }
+}
