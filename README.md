@@ -8,8 +8,7 @@ The platform combines Machine Learning, Time Series Forecasting, FastAPI, React,
  Live Website
 
 Live Demo:**  
-http://electionprediction.duckdns.org
-
+https://electionprediction.duckdns.org/
 > The application is deployed on AWS EC2 using Docker.
 
 ---
